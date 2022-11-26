@@ -1,6 +1,8 @@
 
 A bit intro to the ocasion which forced me to make this project :-) I very much love moOde audio player and I'm using it almost since it has born. I've made a couple of players and I'm been listening to them for a days and nights but since then I'm strugelling for a decent remote control. Have tryed a lot of DIY projects but no one ot them covered my points.
 
+link to youtube movie: https://www.youtube.com/watch?v=-xvVthnFq_s
+
 Advanced IR remote control receiver for moOde audio player is for Arduino Pro Micro 32u4 board, and it is able even to control Vol+ and Vol- but more important is that it is capable to make PowerOff, Reset and PowerOn safely to the SdCard files, it gives command to the RPi to make PowerOff and to close all opened files, then it shuts down the power supply to the RPi. My device is acting as a media keyboard via USB HID and uses same interface to send commands for Powering Off and On the device.
 
 My credits goes to:
