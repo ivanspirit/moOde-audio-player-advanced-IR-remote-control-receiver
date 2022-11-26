@@ -5,6 +5,8 @@ link to youtube movie: https://www.youtube.com/watch?v=-xvVthnFq_s
 
 Advanced IR remote control receiver for moOde audio player is for Arduino Pro Micro 32u4 board, and it is able even to control Vol+ and Vol- but more important is that it is capable to make PowerOff, Reset and PowerOn safely to the SdCard files, it gives command to the RPi to make PowerOff and to close all opened files, then it shuts down the power supply to the RPi. My device is acting as a media keyboard via USB HID and uses same interface to send commands for Powering Off and On the device.
 
+Power Off/Reset commands work by default but for using Vol +/- you have to enable "USB Volume Knob Setting" in Audio settings. You can add some more options by modifying "/etc/triggerhappy/triggers.d/media.conf". 
+
 My credits goes to:
 1. The briliant Tim Curtis and his moOde audio player: https://github.com/moodeaudio
 2. The magician of software Nico Hood, I'll be very happy one day I completely undestand how his HID-Projects work: https://github.com/NicoHood/HID
