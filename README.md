@@ -10,7 +10,7 @@ Power Off/Reset commands work by default but for using Vol +/- you have to enabl
 My credits goes to:
 1. The briliant Tim Curtis and his moOde audio player: https://github.com/moodeaudio
 2. The magician of software Nico Hood, I'll be very happy one day I completely undestand how his HID-Projects work: https://github.com/NicoHood/HID
-3. Same as the famous HID-Projects Nico Hood has very nice IR library as well: https://github.com/NicoHood/IRLremote
+3. Same as the famous HID-Projects Nico Hood has a very nice IR library as well: https://github.com/NicoHood/IRLremote
 4. Thanks to Paul Stoffregen and his very usefull library for reading Rotaty Encoders: http://www.pjrc.com/teensy/td_libs_Encoder.html  
 5. A couple of nice and handy libraries for buttons and leds: https://github.com/SethSenpai/singleLEDLibrary , https://arduinogetstarted.com/tutorials/arduino-button-library
 
