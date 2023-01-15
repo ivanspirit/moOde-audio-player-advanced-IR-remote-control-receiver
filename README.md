@@ -7,7 +7,7 @@ Advanced IR remote control receiver for moOde audio player is for Arduino Pro Mi
 
 Power Off/Reset commands work by default but for using Vol +/- you have to enable "USB Volume Knob Setting" in Audio settings. You can add some more options by modifying "/etc/triggerhappy/triggers.d/media.conf". 
 
-My credits goes to:
+My credits go to:
 1. The briliant Tim Curtis and his moOde audio player: https://github.com/moodeaudio
 2. The magician of software Nico Hood, I'll be very happy one day I completely undestand how his HID-Projects work: https://github.com/NicoHood/HID
 3. Same as the famous HID-Projects Nico Hood has a very nice IR library as well: https://github.com/NicoHood/IRLremote
