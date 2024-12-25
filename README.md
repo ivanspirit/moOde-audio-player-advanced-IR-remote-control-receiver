@@ -1,5 +1,5 @@
 
-A bit intro to the ocasion which forced me to make this project :-) I very much love moOde audio player and I'm using it almost since it has born. I've made a couple of players and I'm been listening to them for a days and nights but since then I'm strugelling for a decent remote control. Have tryed a lot of DIY projects but no one ot them covered my points.
+A bit intro to the ocasion which forced me to make this project :-) I  love moOde audio player very much and I'm using it almost since it has born. I've made a couple of players with this software and I've been listening to them for a days and nights but since then I'm strugelling for a decent remote control. Have tryed a lot of DIY projects but no one ot them covered my points.
 
 link to youtube movie: https://www.youtube.com/watch?v=-xvVthnFq_s
 
